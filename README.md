@@ -1,4 +1,4 @@
-#Best Country to Live In
+# Best Country to Live In
 - 📝Data from Kaggle. https://www.kaggle.com/datasets/rafsunahmad/best-country-to-live-in-2024
 - Data pulled into Tableau.
 - Data contains information about each countrys population size, land mass in KM, whether the country is A UN member, bordering countries, population growth rate, countries region, world happiness rating (2022), Human Development Index ranking 2020 and 2021, population density in KM and MI.  
